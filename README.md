@@ -7,7 +7,7 @@
 <!-- TODO(Marc): "Senior" is not on the public GitHub bio (empty) or the X bio ("Software dev"). Kubernetes shows up only as a fork of GoogleContainerTools/skaffold. Confirm or edit this line. -->
 
 [![Website](https://img.shields.io/badge/marcgarcia.dev-FF2EAA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcgarcia.dev)
-[![X](https://img.shields.io/badge/@__marc__garcia-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_marc_garcia)
+[![X](https://img.shields.io/badge/@marc__garcia-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marc_garcia)
 
 <!-- TODO(Marc): marcgarcia.dev resolves, but the body is currently the plain text "Hello World!". -->
 
@@ -58,6 +58,6 @@
 
 <div align="center">
 
-<sub>📫 Find me at <a href="https://marcgarcia.dev">marcgarcia.dev</a> or on X <a href="https://x.com/_marc_garcia">@_marc_garcia</a></sub>
+<sub>📫 Find me at <a href="https://marcgarcia.dev">marcgarcia.dev</a> or on X <a href="https://x.com/marc_garcia">@marc_garcia</a></sub>
 
 </div>
